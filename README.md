@@ -2,7 +2,7 @@
 
 Using data to estimate good places for new [MetroBike](https://austin.bcycle.com/) kiosk locations.
 
-![screenshot](docs/imgs/bikes.jpg)
+![a photo of a metrobike kiosk at city hall](docs/imgs/bikes.jpg)
 
 *Disclaimer: This is a personal project of mine. Not an official project of CapMetro or the City of Austin*
 
